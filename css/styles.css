@@ -592,6 +592,9 @@ img {
   background-color: #31d0aa;
 }
 
+.footer-subscribe {
+}
+
 .footer-subscribe-text {
   color: var(--WHITE, #fff);
   font-size: 16px;
@@ -602,8 +605,6 @@ img {
 }
 
 .footer-form {
-  display: flex;
-  gap: 24px;
 }
 
 .footer-input {
